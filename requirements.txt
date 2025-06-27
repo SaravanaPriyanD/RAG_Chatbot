@@ -1,0 +1,10 @@
+streamlit
+rank-bm25 
+sentence-transformers 
+numpy 
+scipy 
+openai 
+pdfplumber 
+python-docx 
+beautifulsoup4 
+requests

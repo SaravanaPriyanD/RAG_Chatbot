@@ -1,0 +1,11 @@
+python --version
+
+conda create -n rag python=3.11 -y
+
+conda activate rag
+
+conda deactivate
+
+pip install -r requirements.txt
+
+streamlit run rag_confluence_chatbot.py
